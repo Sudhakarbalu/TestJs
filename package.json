@@ -1,0 +1,22 @@
+{
+  "name": "topaz_nodelib",
+  "version": "1.0.0",
+  "description": "test node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudhakarbalu/TestJs.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "sudhakar balu <sudhakar.balu@dh.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sudhakarbalu/TestJs/issues"
+  },
+  "homepage": "https://github.com/Sudhakarbalu/TestJs#readme"
+}
